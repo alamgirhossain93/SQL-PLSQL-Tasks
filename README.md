@@ -1,9 +1,9 @@
-# SQL-PLSQL-Tasks
 <!-- Output copied to clipboard! -->
 
 <!-- Yay, no errors, warnings, or alerts! -->
 
-<span style="text-decoration:underline;">Hackerrank Problem(PLSQL) </span>
+<span style="text-decoration:underline;">Hackerrank Problem(PLSQL & SQL) </span>
+
 
 <table>
   <tr>
@@ -31,5 +31,4 @@
    </td>
   </tr>
 </table>
-
 
